@@ -1,0 +1,139 @@
+.col,
+.container {
+    padding: 0%;
+}
+
+.card-body1 {
+    border: solid;
+    border-color: #404c58;
+    margin: 30px 90px 0px 90px;
+    display: block;
+    max-width: 900px;
+    background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+}
+
+.form-control-sm {
+    margin: 15px 0px 0px 15px;
+    font-size: 15px;
+}
+
+.circle {
+    display: block;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #404c58;
+    margin: -20px 480px 0px;
+    background: linear-gradient(to top, #232526 30%, #414345);
+}
+
+.currentLocation,
+.currentTemp {
+    text-align: center;
+    font-size: 44px;
+    color: white;
+    font-weight: 600;
+    margin: 20px 0px 0px 0px;
+}
+
+.tempPhraseMain {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-weight: 300;
+    margin: 20px 0px 0px 0px;
+}
+
+.Today,
+.Date,
+.QuestionTime,
+.AnswerTime {
+    color: #321730;
+    position: fixed;
+    margin: 0px 15px;
+    text-align: center;
+    font-size: 35px;
+    width: 30%;
+}
+
+.Today {
+    top: 15%;
+    font-weight: bolder;
+}
+
+.Date {
+    top: 20%;
+    font-weight: 400;
+}
+
+.QuestionTime {
+    top: 34%;
+    font-weight: bold;
+}
+
+.AnswerTime {
+    top: 39%;
+    font-weight: 400;
+}
+
+.Forecast {
+    font-size: 30px;
+    color: #321730;
+    text-align: left;
+    margin-left: 5%;
+    font-weight: bold;
+}
+
+.card-body2 {
+    border: solid;
+    border-color: #404c58;
+    margin: 0px 90px;
+    border-top: none;
+    display: block;
+    max-width: 900px;
+    background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+}
+
+.card-title,
+.card-text-date,
+.card-text-temp,
+.tempPhrase,
+.fa-cloud-rain {
+    text-align: center;
+    color: #321730;
+    margin: 5%;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.card-text-date,
+.card-text-temp {
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+.tempPhrase {
+    margin: 10px;
+    font-size: 15px;
+    font-weight: 200px;
+    text-align: center;
+}
+
+.fas {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    color: #ff5722;
+}
+
+.Coder {
+    text-align: center;
+    color: #ff5722;
+    font-weight: bold;
+    max-width: 900px;
+}
